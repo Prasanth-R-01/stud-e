@@ -1,0 +1,119 @@
+@media screen and (max-width :768px) {
+  .home-img{
+    display: none;
+  }
+}
+
+.navbar-brand{
+ font-size: 2rem;
+}
+
+
+.home {
+ background-color: #f9f9f9;
+ text-align: center;
+ padding: 5% 15%;
+}
+
+.heading {
+  margin: auto;
+  padding-top: 7%;
+  text-align: left;
+}
+
+.firstHeading {
+  font-family: 'Josefin Sans ', sans-serif;
+  font-size: 4.5rem;
+
+}
+
+.secondHeading {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin-top: auto;
+}
+
+.home-img-div {
+  padding: 7% 3%;
+  width: 5%;
+  background-color: #f9f9f9;
+}
+
+
+.features{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #a6dcef;
+  color: #495464;
+}
+
+.fa-icon{
+  color: #07689f;
+  margin: 3%;
+  padding: 3% 3%;
+}
+
+.fa-icon:hover{
+  color: #f6830f;
+}
+
+.subject-title{
+  text-align: center;
+  letter-spacing: 3px;
+  font-size: 2.5rem;
+  font-family: 'Julius Sans One', sans-serif;
+  padding-bottom: 3%;
+}
+
+/* subject card formatting */
+.subject-card{
+  text-align: center;
+  padding: 3% 7%;
+  font-family: 'Josefin Sans ', sans-serif;
+}
+
+
+/* sublect bullets formatting */
+.ul.b{
+  list-style-type: circle;
+}
+
+#language{
+  padding: 3% 7%;
+  text-align: center;
+  background-color: #a6dcef;
+  color: #495464;
+}
+
+#exam{
+  padding: 3% 7%;
+  text-align: center;
+  background-color: #a6dcef;
+  color: #495464;
+}
+
+/* Exam points alignment */
+.z{
+  text-align: left;
+}
+
+#review{
+  padding: 7% 15%;
+}
+
+#footer{
+  text-align: center;
+  background-color: #07689f;
+  color:#a6dcef;
+  padding: 7% 15%;
+  font-family: 'Josefin Sans ', sans-serif;
+}
+
+.socialmedia-buttons{
+  color: #a6dcef;
+  padding: 3% 3%;
+}
+
+.socialmedia-buttons:hover{
+  color: #f6830f;
+}
